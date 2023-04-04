@@ -1,0 +1,4 @@
+Testowy tekst 
+który zostanie zapisany 
+w tym pliku 
+o nazwie zdanie.txt 
